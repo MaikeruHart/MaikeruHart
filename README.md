@@ -10,10 +10,10 @@ Python
 R
 
 - 🌱 I’m currently learning ...
-Advanced data science and machine learning techniques.
+Advanced data science and machine learning techniques
 
 - 💞️ I’m looking to collaborate on ...
-Bioinformatics or natural language processing projects.
+Bioinformatics or natural language processing projects
 
 - 📫 How to reach me ...
 m.james.hart@gmail.com
